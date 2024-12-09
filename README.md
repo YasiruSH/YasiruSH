@@ -1,7 +1,2 @@
-> Fullstack Developer
+> Software Engineer
 
-### Tech Stack
-
-- PHP
-- LARAVEL
-- JQUERY
